@@ -21,15 +21,15 @@ Aeox, StVilde, Kimiekus
 
 ### About LonerZz
 
-Our guild was created on the 18th of July 2015 and the name comes from the first ever guild I’ve been in on a mmorpg (the game was Tales of Pirates).
+> Our guild was created on the 18th of July 2015 and the name comes from the first ever guild I’ve been in on a mmorpg (the game was Tales of Pirates).
 
-I started playing SW on Global server on the 28th of November 2014 only as a reminder of good old times. At first, I wasn’t planning at all to join a guild when the guild system was implemented but in the end I obviously did…
+> I started playing SW on Global server on the 28th of November 2014 only as a reminder of good old times. At first, I wasn’t planning at all to join a guild when the guild system was implemented but in the end I obviously did…
 
-When Com2us announced the opening of an European server, I decided to move and create a guild named TribalZz. At that time, my summoner’s name was PilotBD but I ended up changing it to Aeox.
+> When Com2us announced the opening of an European server, I decided to move and create a guild named TribalZz. At that time, my summoner’s name was PilotBD but I ended up changing it to Aeox.
 
-After a few months of battles, I realized the name of the guild wasn’t right and decided to create LonerZz. Fortunately, all the guilmates accepted to move.
+> After a few months of battles, I realized the name of the guild wasn’t right and decided to create LonerZz. Fortunately, all the guilmates accepted to move.
 
-Since then, we fight and farm everyday.
+> Since then, we fight and farm everyday.
 
 ### About aeox
 
