@@ -7,12 +7,13 @@ published: true
 
 ### Guild facts
  
-Active Guild level 30 with no Dramas
-Rank : G1 – G2
-Language : English (and a few more)
-Best rank Guild War : G3
-Best rank Siege Battle : G2
-Labyrinth record : 2 days 22 hours 6 minutes
+- Active Guild level 30 with no Dramas
+- Rank : G1 – G2
+- Language : English (and a few more)
+- Best rank Guild War : G3
+- Best rank Siege Battle : G2
+- Labyrinth record : 2 days 22 hours 6 minutes
+
 
 ## Guild Leaders
 
