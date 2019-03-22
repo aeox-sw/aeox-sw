@@ -15,11 +15,11 @@ published: true
 - Labyrinth record : 2 days 22 hours 6 minutes
 
 
-## Guild Leaders
+### Guild Leaders
 
 Aeox, StVilde, Kimiekus
 
-## About LonerZz
+### About LonerZz
 
 Our guild was created on the 18th of July 2015 and the name comes from the first ever guild I’ve been in on a mmorpg (the game was Tales of Pirates).
 
