@@ -5,7 +5,9 @@ permalink: /about/
 published: true
 ---
 
-## Guild facts
+### Guild facts
+
+ Guild facts
 
 Active Guild level 30 with no Dramas
 Rank : G1 – G2
